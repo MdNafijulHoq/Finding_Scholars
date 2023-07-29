@@ -1,1 +1,1 @@
-# Finding_Scholars
+# Finding_Scholars (Software Engineering Project)
